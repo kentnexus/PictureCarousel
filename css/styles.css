@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.carousel {
+    text-align: center;
+}
+
+#bigpic {
+    height: 400px;
+}
+
+.thumbs img {
+    height: 75px;
+}
